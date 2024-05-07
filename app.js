@@ -4,11 +4,11 @@ const app = express();
 const Paises = [
     {
         country: 'Ecuador',
-        cities: ['Quito', 'Guayaquil', 'Cuenca']
+        cities: ['Quito', 'Salinas', 'Playas']
     },
     {
         country: 'Perú',
-        cities: ['Lima', 'Arequipa', 'Cusco']
+        cities: ['Cusco', 'Lima', 'Arequipa']
     }
 ];
 
